@@ -29,3 +29,5 @@ s.solve()
 ```
 
 ![Run](https://github.com/nano-labs/binary-puzzle-solver/blob/main/imgs/binary-solver.gif)
+
+![puzzle](https://github.com/nano-labs/binary-puzzle-solver/blob/main/imgs/puzzle.jpeg)
